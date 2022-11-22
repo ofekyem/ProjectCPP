@@ -165,5 +165,6 @@ int main()
 	Canberradistance(vectorA, vectorB, v1_length);
 	Minkowskidistance(vectorA, vectorB, v1_length);
 	// call distance functions
+	//add text for new things
 	return 0;
 }
